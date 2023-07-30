@@ -1,0 +1,751 @@
+,OFFER,RETAILER,BRAND,CATEGORY,PARENT_CATEGORY,RECEIPTS
+0,beyond meat plantbased products spend 25,,beyond meat,packaged meat,pantry,30
+1,beyond meat plantbased products spend 25,,beyond meat,plant-based meat,meat & seafood,1584
+2,beyond meat plantbased products spend 25,,beyond meat,frozen plant-based meat,frozen,313
+3,beyond steak plantbased seared tips 10 ounce at target,target,beyond meat,packaged meat,pantry,30
+4,beyond steak plantbased seared tips 10 ounce at target,target,beyond meat,plant-based meat,meat & seafood,1584
+5,beyond steak plantbased seared tips 10 ounce at target,target,beyond meat,frozen plant-based meat,frozen,313
+6,beyond steak plantbased seared tips 10 ounce buy 2 at heb,h-e-b,beyond meat,packaged meat,pantry,30
+7,beyond steak plantbased seared tips 10 ounce buy 2 at heb,h-e-b,beyond meat,plant-based meat,meat & seafood,1584
+8,beyond steak plantbased seared tips 10 ounce buy 2 at heb,h-e-b,beyond meat,frozen plant-based meat,frozen,313
+9,beyond steak plantbased seared tips 10 ounce at heb,h-e-b,beyond meat,packaged meat,pantry,30
+10,beyond steak plantbased seared tips 10 ounce at heb,h-e-b,beyond meat,plant-based meat,meat & seafood,1584
+11,beyond steak plantbased seared tips 10 ounce at heb,h-e-b,beyond meat,frozen plant-based meat,frozen,313
+12,beyond steak plantbased seared tips 10 ounce buy 2 at target,target,beyond meat,packaged meat,pantry,30
+13,beyond steak plantbased seared tips 10 ounce buy 2 at target,target,beyond meat,plant-based meat,meat & seafood,1584
+14,beyond steak plantbased seared tips 10 ounce buy 2 at target,target,beyond meat,frozen plant-based meat,frozen,313
+15,beyond meat plantbased products spend 15,,beyond meat,packaged meat,pantry,30
+16,beyond meat plantbased products spend 15,,beyond meat,plant-based meat,meat & seafood,1584
+17,beyond meat plantbased products spend 15,,beyond meat,frozen plant-based meat,frozen,313
+18,beyond meat plantbased products spend 20,,beyond meat,packaged meat,pantry,30
+19,beyond meat plantbased products spend 20,,beyond meat,plant-based meat,meat & seafood,1584
+20,beyond meat plantbased products spend 20,,beyond meat,frozen plant-based meat,frozen,313
+21,good humor viennetta frozen vanilla cake,,good humor,dips & salsa,snacks,596
+22,good humor viennetta frozen vanilla cake,,good humor,frozen desserts,frozen,1052
+23,reeses peanut butter bar 6 count at giant or martins,the giant co,good humor,dips & salsa,snacks,596
+24,reeses peanut butter bar 6 count at giant or martins,the giant co,good humor,frozen desserts,frozen,1052
+25,butterball select varieties spend 10 at dillons food store,dillons food store,butterball,nut butters & jam,pantry,2107
+26,butterball select varieties spend 10 at dillons food store,dillons food store,butterball,frozen turkey,frozen meat,388
+27,butterball select varieties spend 10 at ralphs,ralphs,butterball,nut butters & jam,pantry,2107
+28,butterball select varieties spend 10 at ralphs,ralphs,butterball,frozen turkey,frozen meat,388
+29,butterball select varieties spend 10 at ruler foods,ruler foods,butterball,nut butters & jam,pantry,2107
+30,butterball select varieties spend 10 at ruler foods,ruler foods,butterball,frozen turkey,frozen meat,388
+31,butterball select varieties spend 10 at king soopers,king soopers,butterball,nut butters & jam,pantry,2107
+32,butterball select varieties spend 10 at king soopers,king soopers,butterball,frozen turkey,frozen meat,388
+33,butterball select varieties spend 10 at fred meyer,fred meyer,butterball,nut butters & jam,pantry,2107
+34,butterball select varieties spend 10 at fred meyer,fred meyer,butterball,frozen turkey,frozen meat,388
+35,butterball select varieties spend 10 at kroger,kroger,butterball,nut butters & jam,pantry,2107
+36,butterball select varieties spend 10 at kroger,kroger,butterball,frozen turkey,frozen meat,388
+37,butterball select varieties spend 10 at smiths,smiths,butterball,nut butters & jam,pantry,2107
+38,butterball select varieties spend 10 at smiths,smiths,butterball,frozen turkey,frozen meat,388
+39,butterball select varieties spend 10 at food 4 less,food4less,butterball,nut butters & jam,pantry,2107
+40,butterball select varieties spend 10 at food 4 less,food4less,butterball,frozen turkey,frozen meat,388
+41,butterball select varieties spend 10 at frys food store,frys food store,butterball,nut butters & jam,pantry,2107
+42,butterball select varieties spend 10 at frys food store,frys food store,butterball,frozen turkey,frozen meat,388
+43,butterball select varieties spend 10 at qfc,qfc,butterball,nut butters & jam,pantry,2107
+44,butterball select varieties spend 10 at qfc,qfc,butterball,frozen turkey,frozen meat,388
+45,butterball select varieties spend 10 at marianos,marianos,butterball,nut butters & jam,pantry,2107
+46,butterball select varieties spend 10 at marianos,marianos,butterball,frozen turkey,frozen meat,388
+47,butterball select varieties spend 10 at pick n save or metro market,pick n save,butterball,nut butters & jam,pantry,2107
+48,butterball select varieties spend 10 at pick n save or metro market,pick n save,butterball,frozen turkey,frozen meat,388
+49,gatorade fast twitch 12ounce 12 pack at amazon storefront,amazon,gatorade,sports drinks,sports drinks & enhanced waters,34829
+50,gatorade fast twitch 12ounce 12 pack at amazon storefront,amazon,gatorade,medicines & treatments,health & wellness,25275
+51,gatorade fast twitch 12ounce 12 pack at amazon storefront,amazon,gatorade,meal replacement beverages,beverages,289
+52,gatorlyte or gatorade fit single serve bottle select varieties buy 2,,gatorade,sports drinks,sports drinks & enhanced waters,34829
+53,gatorlyte or gatorade fit single serve bottle select varieties buy 2,,gatorade,medicines & treatments,health & wellness,25275
+54,gatorlyte or gatorade fit single serve bottle select varieties buy 2,,gatorade,meal replacement beverages,beverages,289
+55,gatorade fast twitch 12ounce single serve buy 2 at kroger,fred meyer,gatorade,sports drinks,sports drinks & enhanced waters,34829
+56,gatorade fast twitch 12ounce single serve buy 2 at kroger,fred meyer,gatorade,medicines & treatments,health & wellness,25275
+57,gatorade fast twitch 12ounce single serve buy 2 at kroger,fred meyer,gatorade,meal replacement beverages,beverages,289
+58,gatorade fast twitch 12ounce single serve,,gatorade,sports drinks,sports drinks & enhanced waters,34829
+59,gatorade fast twitch 12ounce single serve,,gatorade,medicines & treatments,health & wellness,25275
+60,gatorade fast twitch 12ounce single serve,,gatorade,meal replacement beverages,beverages,289
+61,gatorade fast twitch 12ounce single serve at kroger,dillons grocery,gatorade,sports drinks,sports drinks & enhanced waters,34829
+62,gatorade fast twitch 12ounce single serve at kroger,dillons grocery,gatorade,medicines & treatments,health & wellness,25275
+63,gatorade fast twitch 12ounce single serve at kroger,dillons grocery,gatorade,meal replacement beverages,beverages,289
+64,gatorlyte or gatorade fit single serve bottle select varieties,,gatorade,sports drinks,sports drinks & enhanced waters,34829
+65,gatorlyte or gatorade fit single serve bottle select varieties,,gatorade,medicines & treatments,health & wellness,25275
+66,gatorlyte or gatorade fit single serve bottle select varieties,,gatorade,meal replacement beverages,beverages,289
+67,emmys organics cookies or brownie snaps,,emmys pop up,cookies,snacks,38
+68,dr pepper regular or zero sugar strawberries and cream 12 pack at select retailers,united supermarkets,dr pepper,carbonated soft drinks,beverages,77880
+69,dr pepper regular or zero sugar strawberries and cream 12 pack at select retailers,united supermarkets,dr pepper,cooking & baking,pantry,10983
+70,arnold brownberry oroweat small slice bread at walmart,walmart,arnold brownberry oroweat,bakery,deli & bakery,20
+71,arnold brownberry oroweat small slice bread at walmart,walmart,arnold brownberry oroweat,prepared meals,deli & bakery,86
+72,arnold brownberry oroweat small slice bread at walmart,walmart,arnold brownberry oroweat,bread,pantry,8390
+73,arnold brownberry oroweat keto bread buy 2,,arnold brownberry oroweat,bakery,deli & bakery,20
+74,arnold brownberry oroweat keto bread buy 2,,arnold brownberry oroweat,prepared meals,deli & bakery,86
+75,arnold brownberry oroweat keto bread buy 2,,arnold brownberry oroweat,bread,pantry,8390
+76,arnold grains almighty,,arnold brownberry oroweat,bakery,deli & bakery,20
+77,arnold grains almighty,,arnold brownberry oroweat,prepared meals,deli & bakery,86
+78,arnold grains almighty,,arnold brownberry oroweat,bread,pantry,8390
+79,barilla pesto sauce,,barilla,chips,snacks,5816
+80,barilla pesto sauce,,barilla,dry pasta,pasta & noodles,25852
+81,barilla pesto sauce,,barilla,red pasta sauce,pasta sauce,581
+82,barilla pesto sauce,,barilla,pesto sauce,pasta sauce,525
+83,barilla pasta select varieties buy 2,,barilla,chips,snacks,5816
+84,barilla pasta select varieties buy 2,,barilla,dry pasta,pasta & noodles,25852
+85,barilla pasta select varieties buy 2,,barilla,red pasta sauce,pasta sauce,581
+86,barilla pasta select varieties buy 2,,barilla,pesto sauce,pasta sauce,525
+87,barilla pasta select varieties buy 3,,barilla,chips,snacks,5816
+88,barilla pasta select varieties buy 3,,barilla,dry pasta,pasta & noodles,25852
+89,barilla pasta select varieties buy 3,,barilla,red pasta sauce,pasta sauce,581
+90,barilla pasta select varieties buy 3,,barilla,pesto sauce,pasta sauce,525
+91,barilla pasta select varieties buy 4,,barilla,chips,snacks,5816
+92,barilla pasta select varieties buy 4,,barilla,dry pasta,pasta & noodles,25852
+93,barilla pasta select varieties buy 4,,barilla,red pasta sauce,pasta sauce,581
+94,barilla pasta select varieties buy 4,,barilla,pesto sauce,pasta sauce,525
+95,any general mills products buy 2good rewards members only,,annies homegrown grocery,chips,snacks,48
+96,any general mills products buy 2good rewards members only,,annies homegrown grocery,cheese,dairy,1489
+97,any general mills products buy 2good rewards members only,,annies homegrown grocery,cooking & baking,pantry,106
+98,any general mills products buy 2good rewards members only,,annies homegrown grocery,frozen breakfast,frozen,18
+99,any general mills products buy 2good rewards members only,,annies homegrown grocery,bread,pantry,20
+100,any general mills products buy 2good rewards members only,,annies homegrown grocery,"cereal, granola, & toaster pastries",pantry,32
+101,any general mills products buy 2good rewards members only,,annies homegrown grocery,fruit & vegetable snacks,snacks,228
+102,any general mills products buy 2good rewards members only,,annies homegrown grocery,refrigerated doughs,dairy,92
+103,any general mills products buy 2good rewards members only,,annies homegrown grocery,packaged vegetables,pantry,56
+104,any general mills products buy 2good rewards members only,,annies homegrown grocery,crackers,snacks,961
+105,any general mills products buy 2good rewards members only,,annies homegrown grocery,frozen pizza & pizza snacks,frozen,38
+106,any general mills products buy 2good rewards members only,,annies homegrown grocery,cookies,snacks,15
+107,any general mills products buy 2good rewards members only,,annies homegrown grocery,frozen meals,frozen,52
+108,any general mills products buy 2good rewards members only,,annies homegrown grocery,soup & broth,pantry,14
+109,any general mills products buy 2good rewards members only,,annies homegrown grocery,dressings,pantry,208
+110,general mills products select brands spend 35,,annies homegrown grocery,chips,snacks,48
+111,general mills products select brands spend 35,,annies homegrown grocery,cheese,dairy,1489
+112,general mills products select brands spend 35,,annies homegrown grocery,cooking & baking,pantry,106
+113,general mills products select brands spend 35,,annies homegrown grocery,frozen breakfast,frozen,18
+114,general mills products select brands spend 35,,annies homegrown grocery,bread,pantry,20
+115,general mills products select brands spend 35,,annies homegrown grocery,"cereal, granola, & toaster pastries",pantry,32
+116,general mills products select brands spend 35,,annies homegrown grocery,fruit & vegetable snacks,snacks,228
+117,general mills products select brands spend 35,,annies homegrown grocery,refrigerated doughs,dairy,92
+118,general mills products select brands spend 35,,annies homegrown grocery,packaged vegetables,pantry,56
+119,general mills products select brands spend 35,,annies homegrown grocery,crackers,snacks,961
+120,general mills products select brands spend 35,,annies homegrown grocery,frozen pizza & pizza snacks,frozen,38
+121,general mills products select brands spend 35,,annies homegrown grocery,cookies,snacks,15
+122,general mills products select brands spend 35,,annies homegrown grocery,frozen meals,frozen,52
+123,general mills products select brands spend 35,,annies homegrown grocery,soup & broth,pantry,14
+124,general mills products select brands spend 35,,annies homegrown grocery,dressings,pantry,208
+125,general mills products select brands spend 7 at convenience stores,,annies homegrown grocery,chips,snacks,48
+126,general mills products select brands spend 7 at convenience stores,,annies homegrown grocery,cheese,dairy,1489
+127,general mills products select brands spend 7 at convenience stores,,annies homegrown grocery,cooking & baking,pantry,106
+128,general mills products select brands spend 7 at convenience stores,,annies homegrown grocery,frozen breakfast,frozen,18
+129,general mills products select brands spend 7 at convenience stores,,annies homegrown grocery,bread,pantry,20
+130,general mills products select brands spend 7 at convenience stores,,annies homegrown grocery,"cereal, granola, & toaster pastries",pantry,32
+131,general mills products select brands spend 7 at convenience stores,,annies homegrown grocery,fruit & vegetable snacks,snacks,228
+132,general mills products select brands spend 7 at convenience stores,,annies homegrown grocery,refrigerated doughs,dairy,92
+133,general mills products select brands spend 7 at convenience stores,,annies homegrown grocery,packaged vegetables,pantry,56
+134,general mills products select brands spend 7 at convenience stores,,annies homegrown grocery,crackers,snacks,961
+135,general mills products select brands spend 7 at convenience stores,,annies homegrown grocery,frozen pizza & pizza snacks,frozen,38
+136,general mills products select brands spend 7 at convenience stores,,annies homegrown grocery,cookies,snacks,15
+137,general mills products select brands spend 7 at convenience stores,,annies homegrown grocery,frozen meals,frozen,52
+138,general mills products select brands spend 7 at convenience stores,,annies homegrown grocery,soup & broth,pantry,14
+139,general mills products select brands spend 7 at convenience stores,,annies homegrown grocery,dressings,pantry,208
+140,general mills products select varieties spend 12,,annies homegrown grocery,chips,snacks,48
+141,general mills products select varieties spend 12,,annies homegrown grocery,cheese,dairy,1489
+142,general mills products select varieties spend 12,,annies homegrown grocery,cooking & baking,pantry,106
+143,general mills products select varieties spend 12,,annies homegrown grocery,frozen breakfast,frozen,18
+144,general mills products select varieties spend 12,,annies homegrown grocery,bread,pantry,20
+145,general mills products select varieties spend 12,,annies homegrown grocery,"cereal, granola, & toaster pastries",pantry,32
+146,general mills products select varieties spend 12,,annies homegrown grocery,fruit & vegetable snacks,snacks,228
+147,general mills products select varieties spend 12,,annies homegrown grocery,refrigerated doughs,dairy,92
+148,general mills products select varieties spend 12,,annies homegrown grocery,packaged vegetables,pantry,56
+149,general mills products select varieties spend 12,,annies homegrown grocery,crackers,snacks,961
+150,general mills products select varieties spend 12,,annies homegrown grocery,frozen pizza & pizza snacks,frozen,38
+151,general mills products select varieties spend 12,,annies homegrown grocery,cookies,snacks,15
+152,general mills products select varieties spend 12,,annies homegrown grocery,frozen meals,frozen,52
+153,general mills products select varieties spend 12,,annies homegrown grocery,soup & broth,pantry,14
+154,general mills products select varieties spend 12,,annies homegrown grocery,dressings,pantry,208
+155,egglife egg white wraps at aldi,aldi,egglife,eggs,dairy,27
+156,spend 10 at subway,subway,subway,cooking & baking,pantry,762
+157,spend 25 at subway,subway,subway,cooking & baking,pantry,762
+158,spend 15 at subway,subway,subway,cooking & baking,pantry,762
+159,spend 35 at subway,subway,subway,cooking & baking,pantry,762
+160,dove chocolate select sizes buy 1,,dove chocolate,candy,snacks,3730
+161,dove chocolate select varieties,,dove chocolate,candy,snacks,3730
+162,hellmanns or best foods garlic aioli or spicy mayonnaise,,hellmanns best foods,sauces & marinades,pantry,49
+163,hellmanns or best foods garlic aioli or spicy mayonnaise,,hellmanns best foods,condiments,pantry,7427
+164,hellmanns or best foods garlic aioli or spicy mayonnaise,,hellmanns best foods,dressings,pantry,12
+165,hellmanns or best foods and sargento cheese slices,,hellmanns best foods,sauces & marinades,pantry,49
+166,hellmanns or best foods and sargento cheese slices,,hellmanns best foods,condiments,pantry,7427
+167,hellmanns or best foods and sargento cheese slices,,hellmanns best foods,dressings,pantry,12
+168,hellmanns  best foods vegan dressing or spread,,hellmanns best foods,sauces & marinades,pantry,49
+169,hellmanns  best foods vegan dressing or spread,,hellmanns best foods,condiments,pantry,7427
+170,hellmanns  best foods vegan dressing or spread,,hellmanns best foods,dressings,pantry,12
+171,mms select sizes buy 1,,m&ms,candy,snacks,37241
+172,mms chocolate candies select varieties,,m&ms,candy,snacks,37241
+173,red gold tomato ketchup,,red gold,dips & salsa,snacks,68
+174,red gold tomato ketchup,,red gold,cooking & baking,pantry,515
+175,red gold tomato ketchup,,red gold,sauces & marinades,pantry,323
+176,red gold tomato ketchup,,red gold,condiments,pantry,106
+177,red gold tomato ketchup,,red gold,drink mixes,beverages,14
+178,red gold tomato juice,,red gold,dips & salsa,snacks,68
+179,red gold tomato juice,,red gold,cooking & baking,pantry,515
+180,red gold tomato juice,,red gold,sauces & marinades,pantry,323
+181,red gold tomato juice,,red gold,condiments,pantry,106
+182,red gold tomato juice,,red gold,drink mixes,beverages,14
+183,gillette venus  for pubic hair  skin spend 20,,gillette venus,hair removal,health & wellness,12805
+184,gillette venus  for pubic hair  skin,,gillette venus,hair removal,health & wellness,12805
+185,spend 140 at shaws,shaws,shaws,cooking & baking,pantry,28
+186,spend 185 at shaws,shaws,shaws,cooking & baking,pantry,28
+187,shop 2 times at shaws,shaws,shaws,cooking & baking,pantry,28
+188,any shaws receipt,shaws,shaws,cooking & baking,pantry,28
+189,spend 300 at shaws,shaws,shaws,cooking & baking,pantry,28
+190,loral paris hair color select varieties spend 19 at target,target,loreal paris hair color,hair care,health & wellness,542
+191,loral paris men expert hair color spend 19 at walmart,walmart,loreal paris hair color,hair care,health & wellness,542
+192,loral paris men expert hair color spend 9 at walmart,walmart,loreal paris hair color,hair care,health & wellness,542
+193,loral paris excellence hair color at target,target,loreal paris hair color,hair care,health & wellness,542
+194,loral paris hair color select varieties spend 25 at target,target,loreal paris hair color,hair care,health & wellness,542
+195,loral paris hair color select varieties spend 9 at target,target,loreal paris hair color,hair care,health & wellness,542
+196,simply spiked lemonade 12 pack,,simply spiked,malt beverages,alcohol,2017
+197,simply spiked lemonade 12 pack,,simply spiked,"hard seltzers, sodas, waters, lemonades & teas",alcohol,661
+198,simply spiked signature peach 12pack or larger buy 2,,simply spiked,malt beverages,alcohol,2017
+199,simply spiked signature peach 12pack or larger buy 2,,simply spiked,"hard seltzers, sodas, waters, lemonades & teas",alcohol,661
+200,simply spiked 12 pack,,simply spiked,malt beverages,alcohol,2017
+201,simply spiked 12 pack,,simply spiked,"hard seltzers, sodas, waters, lemonades & teas",alcohol,661
+202,simply spiked signature peach 12 pack,,simply spiked,malt beverages,alcohol,2017
+203,simply spiked signature peach 12 pack,,simply spiked,"hard seltzers, sodas, waters, lemonades & teas",alcohol,661
+204,gortons at select retailers,shop rite,gortons,jerky & dried meat,snacks,14
+205,gortons at select retailers,shop rite,gortons,frozen meals,frozen,13
+206,gortons at select retailers,shop rite,gortons,frozen seafood,frozen meat,122
+207,gortons air fried butterfly shrimp at walmart,walmart,gortons,jerky & dried meat,snacks,14
+208,gortons air fried butterfly shrimp at walmart,walmart,gortons,frozen meals,frozen,13
+209,gortons air fried butterfly shrimp at walmart,walmart,gortons,frozen seafood,frozen meat,122
+210,shop 2 times at acme,acme,acme,medicines & treatments,health & wellness,449
+211,spend 90 at acme,acme,acme,medicines & treatments,health & wellness,449
+212,spend 250 at acme,acme,acme,medicines & treatments,health & wellness,449
+213,any acme receipt,acme,acme,medicines & treatments,health & wellness,449
+214,spend 130 at acme,acme,acme,medicines & treatments,health & wellness,449
+215,order from caseys app or caseyscom,caseys general store,caseys general store,cooking & baking,pantry,58
+216,order from caseys app or caseyscom,caseys general store,caseys general store,frozen pizza & pizza snacks,frozen,42
+217,spend 25 at caseys,caseys general store,caseys general store,cooking & baking,pantry,58
+218,spend 25 at caseys,caseys general store,caseys general store,frozen pizza & pizza snacks,frozen,42
+219,spend 5 instore at caseys,caseys general store,caseys general store,cooking & baking,pantry,58
+220,spend 5 instore at caseys,caseys general store,caseys general store,frozen pizza & pizza snacks,frozen,42
+221,select beverages and prepared food items at caseys,caseys general store,caseys general store,cooking & baking,pantry,58
+222,select beverages and prepared food items at caseys,caseys general store,caseys general store,frozen pizza & pizza snacks,frozen,42
+223,visit or order online from caseys 7 times,caseys general store,caseys general store,cooking & baking,pantry,58
+224,visit or order online from caseys 7 times,caseys general store,caseys general store,frozen pizza & pizza snacks,frozen,42
+225,spend 5 on singleserve prepared food items at caseys,caseys general store,caseys general store,cooking & baking,pantry,58
+226,spend 5 on singleserve prepared food items at caseys,caseys general store,caseys general store,frozen pizza & pizza snacks,frozen,42
+227,12 pack or 2 liter and whole pizza pie at caseys,caseys general store,caseys general store,cooking & baking,pantry,58
+228,12 pack or 2 liter and whole pizza pie at caseys,caseys general store,caseys general store,frozen pizza & pizza snacks,frozen,42
+229,whole pizza at caseys,caseys general store,caseys general store,cooking & baking,pantry,58
+230,whole pizza at caseys,caseys general store,caseys general store,frozen pizza & pizza snacks,frozen,42
+231,wings or cheesy breadsticks at caseys,caseys general store,caseys general store,cooking & baking,pantry,58
+232,wings or cheesy breadsticks at caseys,caseys general store,caseys general store,frozen pizza & pizza snacks,frozen,42
+233,whole pizza pie at caseys,caseys general store,caseys general store,cooking & baking,pantry,58
+234,whole pizza pie at caseys,caseys general store,caseys general store,frozen pizza & pizza snacks,frozen,42
+235,frozen or fountain drink at caseys,caseys general store,caseys general store,cooking & baking,pantry,58
+236,frozen or fountain drink at caseys,caseys general store,caseys general store,frozen pizza & pizza snacks,frozen,42
+237,spend 10 instore at caseys,caseys general store,caseys general store,cooking & baking,pantry,58
+238,spend 10 instore at caseys,caseys general store,caseys general store,frozen pizza & pizza snacks,frozen,42
+239,fresh bakery item select varieties at caseys,caseys general store,caseys general store,cooking & baking,pantry,58
+240,fresh bakery item select varieties at caseys,caseys general store,caseys general store,frozen pizza & pizza snacks,frozen,42
+241,12 pack or 2 liter and whole pizza at caseys,caseys general store,caseys general store,cooking & baking,pantry,58
+242,12 pack or 2 liter and whole pizza at caseys,caseys general store,caseys general store,frozen pizza & pizza snacks,frozen,42
+243,frozen or fountain drink at caseys ,caseys general store,caseys general store,cooking & baking,pantry,58
+244,frozen or fountain drink at caseys ,caseys general store,caseys general store,frozen pizza & pizza snacks,frozen,42
+245,visit or order online from caseys 3 times,caseys general store,caseys general store,cooking & baking,pantry,58
+246,visit or order online from caseys 3 times,caseys general store,caseys general store,frozen pizza & pizza snacks,frozen,42
+247,visit or order online from caseys 5 times,caseys general store,caseys general store,cooking & baking,pantry,58
+248,visit or order online from caseys 5 times,caseys general store,caseys general store,frozen pizza & pizza snacks,frozen,42
+249,whole pizza at caseys ,caseys general store,caseys general store,cooking & baking,pantry,58
+250,whole pizza at caseys ,caseys general store,caseys general store,frozen pizza & pizza snacks,frozen,42
+251,fresh bakery products at caseys select varieties,caseys general store,caseys general store,cooking & baking,pantry,58
+252,fresh bakery products at caseys select varieties,caseys general store,caseys general store,frozen pizza & pizza snacks,frozen,42
+253,spend 10 on caseys branded packaged products,caseys general store,caseys general store,cooking & baking,pantry,58
+254,spend 10 on caseys branded packaged products,caseys general store,caseys general store,frozen pizza & pizza snacks,frozen,42
+255,2 pack or 2 liter and whole pizza at caseys,caseys general store,caseys general store,cooking & baking,pantry,58
+256,2 pack or 2 liter and whole pizza at caseys,caseys general store,caseys general store,frozen pizza & pizza snacks,frozen,42
+257,select beverages and prepared food item at caseys,caseys general store,caseys general store,cooking & baking,pantry,58
+258,select beverages and prepared food item at caseys,caseys general store,caseys general store,frozen pizza & pizza snacks,frozen,42
+259,fresh bakery items select varieties at caseys,caseys general store,caseys general store,cooking & baking,pantry,58
+260,fresh bakery items select varieties at caseys,caseys general store,caseys general store,frozen pizza & pizza snacks,frozen,42
+261,spend 5 on brisket mac  cheese sandwich or other singleserve prepared food item,caseys general store,caseys general store,cooking & baking,pantry,58
+262,spend 5 on brisket mac  cheese sandwich or other singleserve prepared food item,caseys general store,caseys general store,frozen pizza & pizza snacks,frozen,42
+263,flonase allergy relief at walmart,walmart,flonase,medicines & treatments,health & wellness,32
+264,cesar wet dog food spend 20,,cesar,cooking & baking,pantry,2454
+265,cesar wet dog food spend 20,,cesar,frozen chicken,frozen meat,95
+266,cesar wet dog food spend 20,,cesar,sauces & marinades,pantry,379
+267,cesar wet dog food spend 20,,cesar,dog supplies,animals & pet supplies,234
+268,cesar wet dog food singles,,cesar,cooking & baking,pantry,2454
+269,cesar wet dog food singles,,cesar,frozen chicken,frozen meat,95
+270,cesar wet dog food singles,,cesar,sauces & marinades,pantry,379
+271,cesar wet dog food singles,,cesar,dog supplies,animals & pet supplies,234
+272,twix select sizes,,twix,candy,snacks,16006
+273,twix select sizes,,twix,cookies,snacks,121
+274,twix select varieties,,twix,candy,snacks,16006
+275,twix select varieties,,twix,cookies,snacks,121
+276,hidden valley ranch salad dressing or secret sauce select varieties,,hidden valley ranch,dips & salsa,snacks,10661
+277,hidden valley ranch salad dressing or secret sauce select varieties,,hidden valley ranch,cooking & baking,pantry,237
+278,hidden valley ranch salad dressing or secret sauce select varieties,,hidden valley ranch,sauces & marinades,pantry,1537
+279,hidden valley ranch seasoning mix packet 1 count,,hidden valley ranch,dips & salsa,snacks,10661
+280,hidden valley ranch seasoning mix packet 1 count,,hidden valley ranch,cooking & baking,pantry,237
+281,hidden valley ranch seasoning mix packet 1 count,,hidden valley ranch,sauces & marinades,pantry,1537
+282,hidden valley ranch seasoning select varieties,,hidden valley ranch,dips & salsa,snacks,10661
+283,hidden valley ranch seasoning select varieties,,hidden valley ranch,cooking & baking,pantry,237
+284,hidden valley ranch seasoning select varieties,,hidden valley ranch,sauces & marinades,pantry,1537
+285,hidden valley ranch seasoning shaker,,hidden valley ranch,dips & salsa,snacks,10661
+286,hidden valley ranch seasoning shaker,,hidden valley ranch,cooking & baking,pantry,237
+287,hidden valley ranch seasoning shaker,,hidden valley ranch,sauces & marinades,pantry,1537
+288,hidden valley ranch night seasoning mix 1 count,,hidden valley ranch,dips & salsa,snacks,10661
+289,hidden valley ranch night seasoning mix 1 count,,hidden valley ranch,cooking & baking,pantry,237
+290,hidden valley ranch night seasoning mix 1 count,,hidden valley ranch,sauces & marinades,pantry,1537
+291,cooked perfect meatballs at walmart,walmart,cooked perfect,frozen chicken,frozen meat,253
+292,cooked perfect meatballs homestyle or turkey at walmart,walmart,cooked perfect,frozen chicken,frozen meat,253
+293,perfect keto barista blend collagen  mcts online at amazon,amazon,perfect keto,medicines & treatments,health & wellness,171
+294,perfect keto barista blend collagen  mcts online at amazon,amazon,perfect keto,nuts & seeds,snacks,26
+295,perfect keto beauty  sleep collagen online at amazon,amazon,perfect keto,medicines & treatments,health & wellness,171
+296,perfect keto beauty  sleep collagen online at amazon,amazon,perfect keto,nuts & seeds,snacks,26
+297,perfect keto bars online at amazon,amazon,perfect keto,medicines & treatments,health & wellness,171
+298,perfect keto bars online at amazon,amazon,perfect keto,nuts & seeds,snacks,26
+299,perfect keto collagen peptides online at amazon,amazon,perfect keto,medicines & treatments,health & wellness,171
+300,perfect keto collagen peptides online at amazon,amazon,perfect keto,nuts & seeds,snacks,26
+301,perfect keto mct oil powder online at amazon,amazon,perfect keto,medicines & treatments,health & wellness,171
+302,perfect keto mct oil powder online at amazon,amazon,perfect keto,nuts & seeds,snacks,26
+303,perfect keto super reds online at amazon,amazon,perfect keto,medicines & treatments,health & wellness,171
+304,perfect keto super reds online at amazon,amazon,perfect keto,nuts & seeds,snacks,26
+305,perfect keto exogenous ketones powder online at amazon,amazon,perfect keto,medicines & treatments,health & wellness,171
+306,perfect keto exogenous ketones powder online at amazon,amazon,perfect keto,nuts & seeds,snacks,26
+307,crunchmaster crackers spend 4,,crunchmaster,candy,snacks,60
+308,crunchmaster crackers spend 4,,crunchmaster,crackers,snacks,418
+309,tyson products select varieties spend 20 at sams club,sams club,ball park frank,packaged meat,pantry,3186
+310,tyson products select varieties spend 20 at sams club,sams club,ball park frank,frozen beef,frozen meat,20
+311,loral paris makeup spend 35 at target,target,loreal paris cosmetics,makeup,beauty,2124
+312,loral paris makeup spend 30 at target,target,loreal paris cosmetics,makeup,beauty,2124
+313,loreal paris true match foundation at target,target,loreal paris cosmetics,makeup,beauty,2124
+314,loral paris true match foundation at target,target,loreal paris cosmetics,makeup,beauty,2124
+315,any vons receipt,vons,vons,spirits,alcohol,39
+316,spend 150 at vons,vons,vons,spirits,alcohol,39
+317,spend 100 at vons,vons,vons,spirits,alcohol,39
+318,spend 275 at vons,vons,vons,spirits,alcohol,39
+319,shop 2 times at vons,vons,vons,spirits,alcohol,39
+320,chosen foods mayo select varieties,,chosen foods,dips & salsa,snacks,173
+321,chosen foods mayo select varieties,,chosen foods,cooking & baking,pantry,450
+322,chosen foods mayo select varieties,,chosen foods,condiments,pantry,18
+323,chosen foods mayo select varieties,,chosen foods,dressings,pantry,44
+324,chosen foods dressings,,chosen foods,dips & salsa,snacks,173
+325,chosen foods dressings,,chosen foods,cooking & baking,pantry,450
+326,chosen foods dressings,,chosen foods,condiments,pantry,18
+327,chosen foods dressings,,chosen foods,dressings,pantry,44
+328,wine from thebarrelroomcom spend 30,gallo.com,alamos,wine,alcohol,189
+329,pepsico beverage 75ounce 10 pack select varieties at amazon storefront,amazon,pepsi,carbonated soft drinks,beverages,53604
+330,pepsico variety pack select varieties at amazon storefront,amazon,pepsi,carbonated soft drinks,beverages,53604
+331,sara lee bread select varieties buy 2 at walmart,walmart,sara lee,bakery,deli & bakery,916
+332,sara lee bread select varieties buy 2 at walmart,walmart,sara lee,cheese,dairy,1028
+333,sara lee bread select varieties buy 2 at walmart,walmart,sara lee,bread,pantry,18136
+334,sara lee bread select varieties buy 2 at walmart,walmart,sara lee,frozen desserts,frozen,26
+335,sara lee bread select varieties buy 2 at walmart,walmart,sara lee,"cereal, granola, & toaster pastries",pantry,28
+336,sara lee bread select varieties buy 2,walmart,sara lee,bakery,deli & bakery,916
+337,sara lee bread select varieties buy 2,walmart,sara lee,cheese,dairy,1028
+338,sara lee bread select varieties buy 2,walmart,sara lee,bread,pantry,18136
+339,sara lee bread select varieties buy 2,walmart,sara lee,frozen desserts,frozen,26
+340,sara lee bread select varieties buy 2,walmart,sara lee,"cereal, granola, & toaster pastries",pantry,28
+341,sara lee delightful bread buy 2,,sara lee,bakery,deli & bakery,916
+342,sara lee delightful bread buy 2,,sara lee,cheese,dairy,1028
+343,sara lee delightful bread buy 2,,sara lee,bread,pantry,18136
+344,sara lee delightful bread buy 2,,sara lee,frozen desserts,frozen,26
+345,sara lee delightful bread buy 2,,sara lee,"cereal, granola, & toaster pastries",pantry,28
+346,sara lee or alfaros artesano bread buy 5,,alfaros,bakery,deli & bakery,783
+347,sara lee or alfaros artesano bread buy 5,,alfaros,bread,pantry,583
+348,sara lee or alfaros artesano bread spend 8,,alfaros,bakery,deli & bakery,783
+349,sara lee or alfaros artesano bread spend 8,,alfaros,bread,pantry,583
+350,sara lee or alfaros artesano bread buy 2,,alfaros,bakery,deli & bakery,783
+351,sara lee or alfaros artesano bread buy 2,,alfaros,bread,pantry,583
+352,sara lee or alfaros artesano bread spend 20,,alfaros,bakery,deli & bakery,783
+353,sara lee or alfaros artesano bread spend 20,,alfaros,bread,pantry,583
+354,bai antioxidant 6 pack buy 2 at walmart,walmart,bai,fruit juices,beverages,4685
+355,bai antioxidant 6 pack buy 2 at walmart,walmart,bai,tea,beverages,52
+356,bai antioxidant 6 pack buy 2 at walmart,walmart,bai,water,beverages,2367
+357,bai antioxidant 6 pack buy 2 at walmart,walmart,bai,drink mixes,beverages,784
+358,bai antioxidant 6 pack at walmart,walmart,bai,fruit juices,beverages,4685
+359,bai antioxidant 6 pack at walmart,walmart,bai,tea,beverages,52
+360,bai antioxidant 6 pack at walmart,walmart,bai,water,beverages,2367
+361,bai antioxidant 6 pack at walmart,walmart,bai,drink mixes,beverages,784
+362,reeses chocolate cones 8 count at giant or martins,martins foods,klondike,frozen desserts,frozen,5709
+363,reeses chocolate cones 8 count at giant or martins,martins foods,klondike,frozen meals,frozen,1153
+364,klondike cones spend 10 at walmart ,walmart,klondike,frozen desserts,frozen,5709
+365,klondike cones spend 10 at walmart ,walmart,klondike,frozen meals,frozen,1153
+366,klondike cones at walmart ,walmart,klondike,frozen desserts,frozen,5709
+367,klondike cones at walmart ,walmart,klondike,frozen meals,frozen,1153
+368,any albertsons receipt,albertsons,albertsons,candy,snacks,150
+369,shop 2 times at albertsons,albertsons,albertsons,candy,snacks,150
+370,spend 65 at albertsons,albertsons,albertsons,candy,snacks,150
+371,spend 110 at albertsons,albertsons,albertsons,candy,snacks,150
+372,spend 220 at albertsons,albertsons,albertsons,candy,snacks,150
+373,back to the roots grow seed starting pots or germination trays at walmart or target,target,back to the roots,packaged meals & sides,pantry,146
+374,back to the roots soils select varieties and sizes at walmart,walmart,back to the roots,packaged meals & sides,pantry,146
+375,back to the roots dry plant food 5 pounds at the home depot,the home depot,back to the roots,packaged meals & sides,pantry,146
+376,back to the roots garden soil 1 cubic foot at lowes home improvement,lowes home improvement,back to the roots,packaged meals & sides,pantry,146
+377,back to the roots raised bed gardening kit with soil seeds and plant food at target,target,back to the roots,packaged meals & sides,pantry,146
+378,back to the roots microgreens grow kit or seed refill at walmart,walmart,back to the roots,packaged meals & sides,pantry,146
+379,back to the roots soils select varieties and sizes at lowes,lowes home improvement,back to the roots,packaged meals & sides,pantry,146
+380,back to the roots soils select varieties at walmart or lowes,lowes home improvement,back to the roots,packaged meals & sides,pantry,146
+381,back to the roots grow kits at walmart or the home depot,walmart,back to the roots,packaged meals & sides,pantry,146
+382,back to the roots grow hydroponic grow kit or refill bundle at walmart,walmart,back to the roots,packaged meals & sides,pantry,146
+383,back to the roots seeds at walmart,walmart,back to the roots,packaged meals & sides,pantry,146
+384,back to the roots organic kits and planters at target,target,back to the roots,packaged meals & sides,pantry,146
+385,back to the roots potting mix 1 cubic foot at lowes home improvement,lowes home improvement,back to the roots,packaged meals & sides,pantry,146
+386,back to the roots organic 3in1 seed starting mix 12 quart at walmart or target,target,back to the roots,packaged meals & sides,pantry,146
+387,back to the roots soils select varieties at walmart,walmart,back to the roots,packaged meals & sides,pantry,146
+388,dove hand wash select varieties buy 2 at target,target,dove,bath & body,health & wellness,15821
+389,dove hand wash select varieties buy 2 at target,target,dove,makeup,beauty,13
+390,dove hand wash select varieties buy 2 at target,target,dove,deodorant & antiperspirant,health & wellness,4648
+391,dove hand wash select varieties buy 2 at target,target,dove,hair care,health & wellness,1635
+392,dove hand wash select varieties at target,target,dove,bath & body,health & wellness,15821
+393,dove hand wash select varieties at target,target,dove,makeup,beauty,13
+394,dove hand wash select varieties at target,target,dove,deodorant & antiperspirant,health & wellness,4648
+395,dove hand wash select varieties at target,target,dove,hair care,health & wellness,1635
+396,frutero ice cream 1 pint,,frutero,frozen desserts,frozen,46
+397,frutero ice cream 1 pint,,frutero,frozen fruits,frozen,20
+398,biooil skincare oil or gel select varieties,,bio oil,cooking & baking,pantry,41
+399,biooil skincare oil or gel select varieties,,bio oil,skin care,health & wellness,61
+400,biooil products select varieties,,bio oil,cooking & baking,pantry,41
+401,biooil products select varieties,,bio oil,skin care,health & wellness,61
+402,welchsfruit snacks select varieties buy 2,,welchs fruit snacks,fruit & vegetable snacks,snacks,7934
+403,welchs zero sugar fruity bites 6 pack online at amazon,amazon,welchs fruit snacks,fruit & vegetable snacks,snacks,7934
+404,welchs fruit snacks select varieties 6 count buy 3,,welchs fruit snacks,fruit & vegetable snacks,snacks,7934
+405,welchs fruit snacks 250 count online at amazon,amazon,welchs fruit snacks,fruit & vegetable snacks,snacks,7934
+406,welchs juicefuls juicy fruit snacks 14 count at target,target,welchs fruit snacks,fruit & vegetable snacks,snacks,7934
+407,welchs fruit snacks select varieties 6 count buy 2,,welchs fruit snacks,fruit & vegetable snacks,snacks,7934
+408,welchsfruit snacks spend 8,,welchs fruit snacks,fruit & vegetable snacks,snacks,7934
+409,welchs fruit n yogurt snacks 18 count at walmart,walmart,welchs fruit snacks,fruit & vegetable snacks,snacks,7934
+410,welchs fruit snacks select varieties 6 count,,welchs fruit snacks,fruit & vegetable snacks,snacks,7934
+411,welchs juicefuls juicy fruit snacks buy 2,,welchs fruit snacks,fruit & vegetable snacks,snacks,7934
+412,talenti mini bars,,talenti,frozen desserts,frozen,5076
+413,talenti mini bars,,talenti,frozen meals,frozen,1232
+414,molson coors select varieties 12 pack,,coors light,makeup,beauty,4379
+415,molson coors select varieties 12 pack,,coors light,beer,alcohol,31672
+416,sign up for the club card or the club card fullpriced membership new members only,bjs wholesale,bjs wholesale,cooking & baking,pantry,76
+417,marinela sweet baked goods buy 2,,marinela,snack cakes,snacks,3132
+418,marinela sweet baked goods buy 2,,marinela,candy,snacks,254
+419,marinela sweet baked goods buy 2,,marinela,cookies,snacks,3186
+420,coors light miller lite or vizzy 12 pack,,vizzy,malt beverages,alcohol,857
+421,coors light miller lite or vizzy 12 pack,,vizzy,"hard seltzers, sodas, waters, lemonades & teas",alcohol,1385
+422,coors light miller lite or vizzy 12 packs buy 4,,vizzy,malt beverages,alcohol,857
+423,coors light miller lite or vizzy 12 packs buy 4,,vizzy,"hard seltzers, sodas, waters, lemonades & teas",alcohol,1385
+424,coors light miller lite or vizzy 12 packs buy 2,,vizzy,malt beverages,alcohol,857
+425,coors light miller lite or vizzy 12 packs buy 2,,vizzy,"hard seltzers, sodas, waters, lemonades & teas",alcohol,1385
+426,coors light miller lite or vizzy 12 packs buy 3,,vizzy,malt beverages,alcohol,857
+427,coors light miller lite or vizzy 12 packs buy 3,,vizzy,"hard seltzers, sodas, waters, lemonades & teas",alcohol,1385
+428,coors light miller lite or vizzy 12 packs buy 5,,vizzy,malt beverages,alcohol,857
+429,coors light miller lite or vizzy 12 packs buy 5,,vizzy,"hard seltzers, sodas, waters, lemonades & teas",alcohol,1385
+430,little bites spend 10 at walmart,walmart,entenmanns,bakery,deli & bakery,47
+431,little bites spend 10 at walmart,walmart,entenmanns,snack cakes,snacks,21898
+432,little bites spend 10 at walmart,walmart,entenmanns,wine,alcohol,142
+433,little bites spend 10 at walmart,walmart,entenmanns,cookies,snacks,382
+434,envy apples prepacked bags,,envy,candy,snacks,25
+435,envy apples prepacked bags,,envy,sauces & marinades,pantry,418
+436,ben  jerrys frozen creme brulee non dairy dessert 16 ounce,,ben and jerrys,frozen desserts,frozen,18085
+437,ben  jerrys doggie desserts 4 count,,ben and jerrys,frozen desserts,frozen,18085
+438,ben  jerrys frozen sugar cookie dough chunks 8 ounce,,ben and jerrys,frozen desserts,frozen,18085
+439,ben  jerrys select varieties,,ben and jerrys,frozen desserts,frozen,18085
+440,ben  jerrys select varieties spend 12,,ben and jerrys,frozen desserts,frozen,18085
+441,ben  jerrys doggie desserts 4 ounce buy 2,,ben and jerrys,frozen desserts,frozen,18085
+442,ben  jerrys wake  no bake cookie dough ice cream 16 ounce,,ben and jerrys,frozen desserts,frozen,18085
+443,ben  jerrys churray for churros ice cream,,ben and jerrys,frozen desserts,frozen,18085
+444,purex laundry detergent select varieties at walmart,walmart,purex,laundry supplies,household supplies,18
+445,shop 2 times at safeway,safeway,safeway,candy,snacks,529
+446,spend 210 at safeway,safeway,safeway,candy,snacks,529
+447,any safeway receipt,safeway,safeway,candy,snacks,529
+448,spend 115 at safeway,safeway,safeway,candy,snacks,529
+449,spend 90 at safeway,safeway,safeway,candy,snacks,529
+450,sol 6 pack,,sol cerveza,beer,alcohol,74
+451,michael angelos or raos frozen entrees spend 10,,rao's,dry pasta,pasta & noodles,512
+452,michael angelos or raos frozen entrees spend 10,,rao's,sauces & marinades,pantry,2382
+453,michael angelos or raos frozen entrees spend 10,,rao's,frozen pizza & pizza snacks,frozen,53
+454,michael angelos or raos frozen entrees spend 10,,rao's,red pasta sauce,pasta sauce,167
+455,michael angelos or raos frozen entrees spend 10,,rao's,frozen meals,frozen,498
+456,michael angelos or raos frozen entrees spend 10,,rao's,alfredo & white pasta sauce,pasta sauce,276
+457,michael angelos or raos frozen entrees spend 10,,rao's,pasta & noodles,pantry,113
+458,raos frozen pizza,,rao's,dry pasta,pasta & noodles,512
+459,raos frozen pizza,,rao's,sauces & marinades,pantry,2382
+460,raos frozen pizza,,rao's,frozen pizza & pizza snacks,frozen,53
+461,raos frozen pizza,,rao's,red pasta sauce,pasta sauce,167
+462,raos frozen pizza,,rao's,frozen meals,frozen,498
+463,raos frozen pizza,,rao's,alfredo & white pasta sauce,pasta sauce,276
+464,raos frozen pizza,,rao's,pasta & noodles,pantry,113
+465,raos pasta or sauce spend 10,,rao's,dry pasta,pasta & noodles,512
+466,raos pasta or sauce spend 10,,rao's,sauces & marinades,pantry,2382
+467,raos pasta or sauce spend 10,,rao's,frozen pizza & pizza snacks,frozen,53
+468,raos pasta or sauce spend 10,,rao's,red pasta sauce,pasta sauce,167
+469,raos pasta or sauce spend 10,,rao's,frozen meals,frozen,498
+470,raos pasta or sauce spend 10,,rao's,alfredo & white pasta sauce,pasta sauce,276
+471,raos pasta or sauce spend 10,,rao's,pasta & noodles,pantry,113
+472,sargento sliced cheese spend 25,,sargento,cheese,dairy,22912
+473,sargento sliced cheese spend 12,,sargento,cheese,dairy,22912
+474,sargento products select varieties,,sargento,cheese,dairy,22912
+475,sargento products select varieties buy 3,,sargento,cheese,dairy,22912
+476,sargento sliced cheese spend 18,,sargento,cheese,dairy,22912
+477,sargento product,,sargento,cheese,dairy,22912
+478,country crock plant based butter at walmart,walmart,country crock plant butter,nut butters & jam,pantry,2130
+479,country crock plant based cream at walmart,walmart,country crock plant butter,nut butters & jam,pantry,2130
+480,alevex at walmart,walmart,aleve,medicines & treatments,health & wellness,2594
+481,aleve products select varieties 80 count at walmart,walmart,aleve,medicines & treatments,health & wellness,2594
+482,aleve products and alevex select varieties at walmart,walmart,aleve,medicines & treatments,health & wellness,2594
+483,magnum nondairy hazelnut crunch ice cream bars 3 count,,magnum ice cream,frozen desserts,frozen,2257
+484,thomas bagel thins buy 2,,thomas,bakery,deli & bakery,24
+485,thomas bagel thins buy 2,,thomas,frozen breakfast,frozen,258
+486,thomas bagel thins buy 2,,thomas,bread,pantry,26490
+487,thomas select varieties spend 10,,thomas,bakery,deli & bakery,24
+488,thomas select varieties spend 10,,thomas,frozen breakfast,frozen,258
+489,thomas select varieties spend 10,,thomas,bread,pantry,26490
+490,thomas bagel thins,,thomas,bakery,deli & bakery,24
+491,thomas bagel thins,,thomas,frozen breakfast,frozen,258
+492,thomas bagel thins,,thomas,bread,pantry,26490
+493,spend 60 at tgi fridays,tgi fridays,tgi fridays,spirits,alcohol,245
+494,spend 60 at tgi fridays,tgi fridays,tgi fridays,malt beverages,alcohol,33
+495,spend 60 at tgi fridays,tgi fridays,tgi fridays,frozen appetizers,frozen,403
+496,spend 35 at tgi fridays,tgi fridays,tgi fridays,spirits,alcohol,245
+497,spend 35 at tgi fridays,tgi fridays,tgi fridays,malt beverages,alcohol,33
+498,spend 35 at tgi fridays,tgi fridays,tgi fridays,frozen appetizers,frozen,403
+499,spend 45 at tgi fridays,tgi fridays,tgi fridays,spirits,alcohol,245
+500,spend 45 at tgi fridays,tgi fridays,tgi fridays,malt beverages,alcohol,33
+501,spend 45 at tgi fridays,tgi fridays,tgi fridays,frozen appetizers,frozen,403
+502,spend 25 at tgi fridays,tgi fridays,tgi fridays,spirits,alcohol,245
+503,spend 25 at tgi fridays,tgi fridays,tgi fridays,malt beverages,alcohol,33
+504,spend 25 at tgi fridays,tgi fridays,tgi fridays,frozen appetizers,frozen,403
+505,artesano buns buy 2 at walmart,walmart,sara lee artesano,bakery,deli & bakery,7912
+506,artesano buns buy 2 at walmart,walmart,sara lee artesano,bread,pantry,1806
+507,starburst select sizes buy 1,,starburst,candy,snacks,11713
+508,starburst select sizes buy 1,,starburst,fruit & vegetable snacks,snacks,486
+509,starburst select sizes buy 1,,starburst,gum,candy,81
+510,starburst select varieties,,starburst,candy,snacks,11713
+511,starburst select varieties,,starburst,fruit & vegetable snacks,snacks,486
+512,starburst select varieties,,starburst,gum,candy,81
+513,fresh step outstretch cat litter,,fresh step,bath & body,health & wellness,109
+514,fresh step outstretch cat litter,,fresh step,bakery,deli & bakery,1717
+515,fresh step outstretch cat litter,,fresh step,makeup,beauty,256
+516,fresh step outstretch cat litter,,fresh step,medicines & treatments,health & wellness,2445
+517,fresh step outstretch cat litter,,fresh step,cooking & baking,pantry,44
+518,fresh step outstretch cat litter,,fresh step,hair care,health & wellness,40
+519,burts bees sensitive lotions and creams select varieties at walmart,walmart,burts bees,hair removal,health & wellness,90
+520,burts bees sensitive lotions and creams select varieties at walmart,walmart,burts bees,makeup,beauty,1210
+521,burts bees sensitive lotions and creams select varieties at walmart,walmart,burts bees,skin care,health & wellness,160
+522,burts bees facial wipes select varieties 30 count at walmart,walmart,burts bees,hair removal,health & wellness,90
+523,burts bees facial wipes select varieties 30 count at walmart,walmart,burts bees,makeup,beauty,1210
+524,burts bees facial wipes select varieties 30 count at walmart,walmart,burts bees,skin care,health & wellness,160
+525,burts bees products select varieties at walmart,walmart,burts bees,hair removal,health & wellness,90
+526,burts bees products select varieties at walmart,walmart,burts bees,makeup,beauty,1210
+527,burts bees products select varieties at walmart,walmart,burts bees,skin care,health & wellness,160
+528,durex massage  play 2 in 1 pleasure gel select varieties at walmart or target,target,durex,medicines & treatments,health & wellness,376
+529,durex massage  play 2 in 1 pleasure gel select varieties at walmart or target,target,durex,sexual health,health & wellness,12
+530,life savers,,lifesavers,candy,snacks,14431
+531,lifesavers any size buy 1,,lifesavers,candy,snacks,14431
+532,respawn by 5 gum at walmart,walmart,5 gum,gum,candy,4813
+533,wesson oil products,,wesson,cooking & baking,pantry,1416
+534,bubbies pickles sauerkraut and condiments at whole foods or sprouts,sprouts farmers market,bubbies,prepared meals,deli & bakery,600
+535,bubbies pickles sauerkraut or condiments at whole foods or sprouts,sprouts farmers market,bubbies,prepared meals,deli & bakery,600
+536,michael angelos sauce at walmart,walmart,michael angelo's,sauces & marinades,pantry,27
+537,michael angelos sauce at walmart,walmart,michael angelo's,frozen meals,frozen,461
+538,spend 155 at pavilions,pavilions,pavilions,cooking & baking,pantry,15
+539,shop 2 times at pavilions,pavilions,pavilions,cooking & baking,pantry,15
+540,spend 100 at pavilions,pavilions,pavilions,cooking & baking,pantry,15
+541,any pavilions receipt,pavilions,pavilions,cooking & baking,pantry,15
+542,spend 270 at pavilions,pavilions,pavilions,cooking & baking,pantry,15
+543,beechnut snacks select varieties,,beechnut,nuts & seeds,snacks,45
+544,beechnut snacks select varieties,,beechnut,fruit & vegetable snacks,snacks,355
+545,beechnut snacks select varieties,,beechnut,crackers,snacks,3732
+546,beechnut snacks select varieties,,beechnut,cookies,snacks,24
+547,beechnut pouches buy 8,,beechnut,nuts & seeds,snacks,45
+548,beechnut pouches buy 8,,beechnut,fruit & vegetable snacks,snacks,355
+549,beechnut pouches buy 8,,beechnut,crackers,snacks,3732
+550,beechnut pouches buy 8,,beechnut,cookies,snacks,24
+551,brita pitcher and filter,,brita,household supplies,household supplies,20
+552,brita pitcher and filter,,brita,water,beverages,24
+553,brita standard or elite filters,,brita,household supplies,household supplies,20
+554,brita standard or elite filters,,brita,water,beverages,24
+555,brita pitcher or dispenser,,brita,household supplies,household supplies,20
+556,brita pitcher or dispenser,,brita,water,beverages,24
+557,spend 90 at star market,star market,star market,cooking & baking,pantry,35
+558,shop 2 times at star market,star market,star market,cooking & baking,pantry,35
+559,spend 120 at star market,star market,star market,cooking & baking,pantry,35
+560,spend 220 at star market,star market,star market,cooking & baking,pantry,35
+561,any star market receipt,star market,star market,cooking & baking,pantry,35
+562,snickers select sizes buy 1,,snickers,candy,snacks,23740
+563,snickers chocolate candy bar select varieties,,snickers,candy,snacks,23740
+564,kodiak products select varieties spend 10,,kodiak cakes flapjack & waffle mix,"cereal, granola, & toaster pastries",pantry,104
+565,bays english muffins,,bays,bread,pantry,1066
+566,super coffee 12 ounce single serve buy 3,,super coffee,coffee,beverages,1232
+567,super coffee 12 ounce single serve,,super coffee,coffee,beverages,1232
+568,goya coconut water,,goya,carbonated soft drinks,beverages,28
+569,goya coconut water,,goya,dips & salsa,snacks,61
+570,goya coconut water,,goya,cooking & baking,pantry,28252
+571,goya coconut water,,goya,bread,pantry,258
+572,goya coconut water,,goya,nut butters & jam,pantry,17
+573,goya coconut water,,goya,fruit juices,beverages,171
+574,goya coconut water,,goya,dry pasta,pasta & noodles,450
+575,goya coconut water,,goya,frozen chicken,frozen meat,33
+576,goya coconut water,,goya,water,beverages,850
+577,goya coconut water,,goya,malt beverages,alcohol,68
+578,goya coconut water,,goya,rice & grains,pantry,3469
+579,goya coconut water,,goya,sauces & marinades,pantry,1056
+580,goya coconut water,,goya,packaged vegetables,pantry,4204
+581,goya coconut water,,goya,crackers,snacks,12
+582,goya coconut water,,goya,packaged meat,pantry,785
+583,goya coconut water,,goya,cookies,snacks,471
+584,goya coconut water,,goya,frozen meals,frozen,138
+585,goya coconut water,,goya,soup & broth,pantry,186
+586,goya coconut water,,goya,frozen vegetables,frozen,512
+587,goya coconut water,,goya,drink mixes,beverages,252
+588,goya coconut water,,goya,milk,dairy,46
+589,goya coconut water,,goya,frozen fruits,frozen,256
+590,goya coconut water,,goya,pickled goods,pantry,83
+591,goya coconut water,,goya,pasta & noodles,pantry,40
+592,goya coconut water,,goya,pudding & gelatin,snacks,32
+593,goya coconut water,,goya,packaged seafood,pantry,17
+594,goya coconut water,,goya,deli counter,deli & bakery,59
+595,goya coconut water,,goya,frozen seafood,frozen meat,21
+596,goya coconut water,,goya,frozen appetizers,frozen,90
+597,goya adobo seasoning 8 ounce,,goya,carbonated soft drinks,beverages,28
+598,goya adobo seasoning 8 ounce,,goya,dips & salsa,snacks,61
+599,goya adobo seasoning 8 ounce,,goya,cooking & baking,pantry,28252
+600,goya adobo seasoning 8 ounce,,goya,bread,pantry,258
+601,goya adobo seasoning 8 ounce,,goya,nut butters & jam,pantry,17
+602,goya adobo seasoning 8 ounce,,goya,fruit juices,beverages,171
+603,goya adobo seasoning 8 ounce,,goya,dry pasta,pasta & noodles,450
+604,goya adobo seasoning 8 ounce,,goya,frozen chicken,frozen meat,33
+605,goya adobo seasoning 8 ounce,,goya,water,beverages,850
+606,goya adobo seasoning 8 ounce,,goya,malt beverages,alcohol,68
+607,goya adobo seasoning 8 ounce,,goya,rice & grains,pantry,3469
+608,goya adobo seasoning 8 ounce,,goya,sauces & marinades,pantry,1056
+609,goya adobo seasoning 8 ounce,,goya,packaged vegetables,pantry,4204
+610,goya adobo seasoning 8 ounce,,goya,crackers,snacks,12
+611,goya adobo seasoning 8 ounce,,goya,packaged meat,pantry,785
+612,goya adobo seasoning 8 ounce,,goya,cookies,snacks,471
+613,goya adobo seasoning 8 ounce,,goya,frozen meals,frozen,138
+614,goya adobo seasoning 8 ounce,,goya,soup & broth,pantry,186
+615,goya adobo seasoning 8 ounce,,goya,frozen vegetables,frozen,512
+616,goya adobo seasoning 8 ounce,,goya,drink mixes,beverages,252
+617,goya adobo seasoning 8 ounce,,goya,milk,dairy,46
+618,goya adobo seasoning 8 ounce,,goya,frozen fruits,frozen,256
+619,goya adobo seasoning 8 ounce,,goya,pickled goods,pantry,83
+620,goya adobo seasoning 8 ounce,,goya,pasta & noodles,pantry,40
+621,goya adobo seasoning 8 ounce,,goya,pudding & gelatin,snacks,32
+622,goya adobo seasoning 8 ounce,,goya,packaged seafood,pantry,17
+623,goya adobo seasoning 8 ounce,,goya,deli counter,deli & bakery,59
+624,goya adobo seasoning 8 ounce,,goya,frozen seafood,frozen meat,21
+625,goya adobo seasoning 8 ounce,,goya,frozen appetizers,frozen,90
+626,blue apron meal kits,blue apron,blue apron,cooking & baking,pantry,19
+627,sign up for mcalisters deli rewards tap for details,mcalisters deli,mcalisters deli,bakery,deli & bakery,2808
+628,sign up for mcalisters deli rewards tap for details,mcalisters deli,mcalisters deli,carbonated soft drinks,beverages,7387
+629,sign up for mcalisters deli rewards tap for details,mcalisters deli,mcalisters deli,dips & salsa,snacks,60
+630,sign up for mcalisters deli rewards tap for details,mcalisters deli,mcalisters deli,coffee,beverages,762
+631,sign up for mcalisters deli rewards tap for details,mcalisters deli,mcalisters deli,prepared meals,deli & bakery,36533
+632,sign up for mcalisters deli rewards tap for details,mcalisters deli,mcalisters deli,candy,snacks,1262
+633,sign up for mcalisters deli rewards tap for details,mcalisters deli,mcalisters deli,wine,alcohol,16286
+634,sign up for mcalisters deli rewards tap for details,mcalisters deli,mcalisters deli,chips,snacks,5289
+635,sign up for mcalisters deli rewards tap for details,mcalisters deli,mcalisters deli,cheese,dairy,6224
+636,sign up for mcalisters deli rewards tap for details,mcalisters deli,mcalisters deli,cooking & baking,pantry,2320
+637,sign up for mcalisters deli rewards tap for details,mcalisters deli,mcalisters deli,bread,pantry,49
+638,sign up for mcalisters deli rewards tap for details,mcalisters deli,mcalisters deli,fruit juices,beverages,11220
+639,sign up for mcalisters deli rewards tap for details,mcalisters deli,mcalisters deli,frozen chicken,frozen meat,1564
+640,sign up for mcalisters deli rewards tap for details,mcalisters deli,mcalisters deli,tea,beverages,19776
+641,sign up for mcalisters deli rewards tap for details,mcalisters deli,mcalisters deli,leafy salads,deli & bakery,21413
+642,sign up for mcalisters deli rewards tap for details,mcalisters deli,mcalisters deli,water,beverages,4804
+643,sign up for mcalisters deli rewards tap for details,mcalisters deli,mcalisters deli,fruit & vegetable snacks,snacks,361
+644,sign up for mcalisters deli rewards tap for details,mcalisters deli,mcalisters deli,sauces & marinades,pantry,247
+645,sign up for mcalisters deli rewards tap for details,mcalisters deli,mcalisters deli,cookies,snacks,8133
+646,sign up for mcalisters deli rewards tap for details,mcalisters deli,mcalisters deli,frozen meals,frozen,351
+647,sign up for mcalisters deli rewards tap for details,mcalisters deli,mcalisters deli,soup & broth,pantry,1668
+648,sign up for mcalisters deli rewards tap for details,mcalisters deli,mcalisters deli,milk,dairy,4223
+649,sign up for mcalisters deli rewards tap for details,mcalisters deli,mcalisters deli,packaged fruit & applesauce,pantry,464
+650,sign up for mcalisters deli rewards tap for details,mcalisters deli,mcalisters deli,packaged meals & sides,pantry,2145
+651,sign up for mcalisters deli rewards tap for details,mcalisters deli,mcalisters deli,pickled goods,pantry,1987
+652,sign up for mcalisters deli rewards tap for details,mcalisters deli,mcalisters deli,dressings,pantry,1059
+653,sign up for mcalisters deli rewards tap for details,mcalisters deli,mcalisters deli,pasta & noodles,pantry,44
+654,sign up for mcalisters deli rewards tap for details,mcalisters deli,mcalisters deli,frozen turkey,frozen meat,24
+655,kradle select varieties spend 20 at walmart,walmart,kradle,cooking & baking,pantry,91
+656,kradle select varieties spend 20 at walmart,walmart,kradle,dog supplies,animals & pet supplies,19
+657,kradle select products online at chewycom,chewy,kradle,cooking & baking,pantry,91
+658,kradle select products online at chewycom,chewy,kradle,dog supplies,animals & pet supplies,19
+659,kradle select varieties online at amazon,amazon,kradle,cooking & baking,pantry,91
+660,kradle select varieties online at amazon,amazon,kradle,dog supplies,animals & pet supplies,19
+661,kradle select varieties at pet supplies plus,pet supplies plus,kradle,cooking & baking,pantry,91
+662,kradle select varieties at pet supplies plus,pet supplies plus,kradle,dog supplies,animals & pet supplies,19
+663,childrens astepro allergy 22 count at dollar general,dollar general store,astepro,medicines & treatments,health & wellness,313
+664,adult astepro allergy 22 count at dollar general,dollar general store,astepro,medicines & treatments,health & wellness,313
+665,bimbo sweet baked goods buy 2,,bimbo,bakery,deli & bakery,57
+666,bimbo sweet baked goods buy 2,,bimbo,snack cakes,snacks,3914
+667,bimbo sweet baked goods buy 2,,bimbo,bread,pantry,2324
+668,bimbo sweet baked goods buy 2,,bimbo,cookies,snacks,42
+669,natuchips plantain chips,,natuchips,chips,snacks,129
+670,promised land dairy milk 52ounce,,promised land dairy,milk,dairy,32
+671,core hydration select varieties at walmart,walmart,core hydration,water,beverages,4595
+672,core hydration select varieties buy 2 at walmart,walmart,core hydration,water,beverages,4595
+673,colgate toothpaste and colgate toothbrush select varieties at walmart or target,target,colgate toothbrushes,oral care,health & wellness,2172
+674,extra select varieties,,extra,gum,candy,12828
+675,extra select sizes,,extra,gum,candy,12828
+676,wonderworks keto friendly cereal,,wonderworks,"cereal, granola, & toaster pastries",pantry,100
+677,mtn dew kickstart 16ounce 12 count select varieties at amazon storefront,amazon,mountain dew,carbonated soft drinks,beverages,68610
+678,skittles select varieties,,skittles,candy,snacks,15809
+679,skittles select varieties,,skittles,fruit juices,beverages,74
+680,skittles select sizes,,skittles,candy,snacks,15809
+681,skittles select sizes,,skittles,fruit juices,beverages,74
+682,stubborn soda or bundaberg ginger beer select varieties at amazon storefront,amazon,stubborn soda,carbonated soft drinks,beverages,16
+683,ballpark buns buy 2,,ball park pop ups,bakery,deli & bakery,5920
+684,ballpark buns buy 2,,ball park pop ups,bread,pantry,9922
+685,orbit select sizes buy 1,,orbit,gum,candy,7268
+686,orbit select varieties,,orbit,gum,candy,7268
+687,molson coors select varieties 12 pack buy 2,,topo chico hard seltzer,"hard seltzers, sodas, waters, lemonades & teas",alcohol,4175
+688,starry lemon lime soda multipacks at kroger,dillons grocery,starry,carbonated soft drinks,beverages,2851
+689,starry lemon lime soda 75ounce 10 pack at amazon storefront,amazon,starry,carbonated soft drinks,beverages,2851
+690,evolve plantbased protein shake 4 count select varieties at whole foods,whole foods market,evolve,carbonated soft drinks,beverages,1242
+691,evolve plantbased protein shake 4 count select varieties at whole foods,whole foods market,evolve,meal replacement beverages,beverages,37
+692,evolve plantbased protein shake 4 count select varieties at whole foods,whole foods market,evolve,frozen turkey,frozen meat,20
+693,tyson products select varieties spend 15 at walmart,walmart,aidells,packaged meat,pantry,854
+694,hagendazs 28 ounce at grocery stores,,haagen dazs,frozen desserts,frozen,301
+695,glad trash bags 4 or 8 gallon,,glad,household supplies,household supplies,6822
+696,glad trash bags 4 or 8 gallon,,glad,prepared meals,deli & bakery,1350
+697,glad trash bags 4 or 8 gallon,,glad,crackers,snacks,835
+698,glad trash bags 4 or 8 gallon,,glad,food storage,household supplies,268
+699,glad forceflex max strength trash bags,,glad,household supplies,household supplies,6822
+700,glad forceflex max strength trash bags,,glad,prepared meals,deli & bakery,1350
+701,glad forceflex max strength trash bags,,glad,crackers,snacks,835
+702,glad forceflex max strength trash bags,,glad,food storage,household supplies,268
+703,tostitos toppers,,tostitos,dips & salsa,snacks,9299
+704,tostitos toppers,,tostitos,chips,snacks,21401
+705,tostitos toppers,,tostitos,sauces & marinades,pantry,30
+706,ratio keto friendly cereal or granola,,ratio,"cereal, granola, & toaster pastries",pantry,1080
+707,ratio keto friendly cereal or granola,,ratio,yogurt,dairy,1131
+708,ratio keto friendly cereal or granola,,ratio,nuts & seeds,snacks,120
+709,andr california champagne or sparkling wines 750ml bottle,,andre,wine,alcohol,614
+710,degree for men or women dry spray,,degree,deodorant & antiperspirant,health & wellness,4674
+711,brownie brittle snacks select varieties buy 2,,brownie brittle,bakery,deli & bakery,563
+712,brownie brittle snacks select varieties buy 2,,brownie brittle,cookies,snacks,229
+713,cheerios oat crunch berry cereal,,cheerios,"cereal, granola, & toaster pastries",pantry,10876
+714,spend 10 at cvs,cvs,cvs,medicines & treatments,health & wellness,39210
+715,spend 10 at cvs,cvs,cvs,cooking & baking,pantry,45
+716,spend 10 at cvs,cvs,cvs,fruit juices,beverages,75
+717,spend 10 at cvs,cvs,cvs,skin care,health & wellness,44
+718,spend 30 at cvs,cvs,cvs,medicines & treatments,health & wellness,39210
+719,spend 30 at cvs,cvs,cvs,cooking & baking,pantry,45
+720,spend 30 at cvs,cvs,cvs,fruit juices,beverages,75
+721,spend 30 at cvs,cvs,cvs,skin care,health & wellness,44
+722,snuggle liquid fabric softener at walmart,walmart,snuggle,household supplies,household supplies,2214
+723,general mills snacks select brands spend 10,,bugles,chips,snacks,3654
+724,the rustik oven bread,,rustik oven,bread,pantry,292
+725,nature valley protein granola,,nature valley,dips & salsa,snacks,440
+726,nature valley protein granola,,nature valley,candy,snacks,1524
+727,nature valley protein granola,,nature valley,chips,snacks,105
+728,nature valley protein granola,,nature valley,nut butters & jam,pantry,2532
+729,nature valley protein granola,,nature valley,"cereal, granola, & toaster pastries",pantry,684
+730,nature valley protein granola,,nature valley,nuts & seeds,snacks,4455
+731,nature valley protein granola,,nature valley,fruit & vegetable snacks,snacks,332
+732,nature valley protein granola,,nature valley,crackers,snacks,3637
+733,nature valley protein granola,,nature valley,cookies,snacks,1979
+734,nature valley protein granola,,nature valley,trail mix,snacks,370
+735,sir kensingtons condiments buy 2,,sir kensingtons,sauces & marinades,pantry,87
+736,sir kensingtons condiments buy 2,,sir kensingtons,condiments,pantry,954
+737,sir kensingtons condiments buy 2,,sir kensingtons,dressings,pantry,22
+738,sir kensingtons condiments,,sir kensingtons,sauces & marinades,pantry,87
+739,sir kensingtons condiments,,sir kensingtons,condiments,pantry,954
+740,sir kensingtons condiments,,sir kensingtons,dressings,pantry,22
+741,spend 15 at burger king,burger king,burger king,cooking & baking,pantry,272
+742,camerons coffee ecopods,,cameron's coffee,coffee,beverages,393
+743,dixon safety carpenter pencil 10 count at lowes,lowes home improvement,dixon,makeup,beauty,1043
+744,dixon safety carpenter pencil 10 count at lowes,lowes home improvement,dixon,cooking & baking,pantry,6752
+745,breyers reeses ice cream select varieties at giant or martins,martins foods,breyers,frozen desserts,frozen,16732
+746,breyers reeses ice cream select varieties at giant or martins,martins foods,breyers,frozen breads & doughs,frozen,1678
+747,jack links select varieties,,jack links,jerky & dried meat,snacks,1614
+748,simply organic seasoning mixes or spices,,simply organic,cooking & baking,pantry,1440
+749,simply organic seasoning mixes or spices,,simply organic,sauces & marinades,pantry,413

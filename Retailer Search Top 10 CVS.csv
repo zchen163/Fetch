@@ -1,0 +1,11 @@
+,OFFER,RETAILER,BRAND,CATEGORY,RECEIPTS,SCORE
+664,spend 10 at cvs,cvs,cvs,medicines & treatments,39210.0,1.0
+737,spend 30 at cvs,cvs,cvs,medicines & treatments,39210.0,1.0
+474,when you join costco as a gold star member new members only,costco,costco,,,0.7774
+495,when you join costco as an executive member new members only,costco,costco,,,0.7774
+682,butterball select varieties spend 10 at marianos,marianos,butterball,nut butters & jam,2107.0,0.75
+63,shop 2 times at acme,acme,acme,medicines & treatments,449.0,0.7479
+300,spend 90 at acme,acme,acme,medicines & treatments,449.0,0.7479
+314,spend 250 at acme,acme,acme,medicines & treatments,449.0,0.7479
+466,any acme receipt,acme,acme,medicines & treatments,449.0,0.7479
+600,spend 130 at acme,acme,acme,medicines & treatments,449.0,0.7479

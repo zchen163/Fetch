@@ -1,21 +1,21 @@
-,OFFER,RETAILER,BRAND,CATEGORY,SCORE
-566,super coffee 12 ounce single serve buy 3,,super coffee,coffee,1.0
-567,super coffee 12 ounce single serve,,super coffee,coffee,1.0
-742,camerons coffee ecopods,,cameron's coffee,coffee,1.0
-670,promised land dairy milk 52ounce,,promised land dairy,milk,0.6797
-196,simply spiked lemonade 12 pack,,simply spiked,malt beverages,0.632
-198,simply spiked signature peach 12pack or larger buy 2,,simply spiked,malt beverages,0.632
-200,simply spiked 12 pack,,simply spiked,malt beverages,0.632
-202,simply spiked signature peach 12 pack,,simply spiked,malt beverages,0.632
-420,coors light miller lite or vizzy 12 pack,,vizzy,malt beverages,0.632
-422,coors light miller lite or vizzy 12 packs buy 4,,vizzy,malt beverages,0.632
-424,coors light miller lite or vizzy 12 packs buy 2,,vizzy,malt beverages,0.632
-426,coors light miller lite or vizzy 12 packs buy 3,,vizzy,malt beverages,0.632
-428,coors light miller lite or vizzy 12 packs buy 5,,vizzy,malt beverages,0.632
-67,emmys organics cookies or brownie snaps,,emmys pop up,cookies,0.6222
-532,respawn by 5 gum at walmart,walmart,5 gum,gum,0.6201
-674,extra select varieties,,extra,gum,0.6201
-675,extra select sizes,,extra,gum,0.6201
-685,orbit select sizes buy 1,,orbit,gum,0.6201
-686,orbit select varieties,,orbit,gum,0.6201
-472,sargento sliced cheese spend 25,,sargento,cheese,0.6143
+,OFFER,RETAILER,BRAND,CATEGORY,RECEIPTS,SCORE
+332,super coffee 12 ounce single serve buy 3,,super coffee,coffee,1232.0,1.0
+783,super coffee 12 ounce single serve,,super coffee,coffee,1232.0,1.0
+763,camerons coffee ecopods,,cameron's coffee,coffee,393.0,1.0
+468,promised land dairy milk 52ounce,,promised land dairy,milk,32.0,0.6797
+58,simply spiked lemonade 12 pack,,simply spiked,malt beverages,2017.0,0.632
+173,simply spiked signature peach 12pack or larger buy 2,,simply spiked,malt beverages,2017.0,0.632
+246,simply spiked 12 pack,,simply spiked,malt beverages,2017.0,0.632
+307,simply spiked signature peach 12 pack,,simply spiked,malt beverages,2017.0,0.632
+192,coors light miller lite or vizzy 12 pack,,vizzy,malt beverages,857.0,0.632
+283,coors light miller lite or vizzy 12 packs buy 4,,vizzy,malt beverages,857.0,0.632
+540,coors light miller lite or vizzy 12 packs buy 2,,vizzy,malt beverages,857.0,0.632
+629,coors light miller lite or vizzy 12 packs buy 3,,vizzy,malt beverages,857.0,0.632
+696,coors light miller lite or vizzy 12 packs buy 5,,vizzy,malt beverages,857.0,0.632
+11,emmys organics cookies or brownie snaps,,emmys pop up,cookies,38.0,0.6222
+482,extra select varieties,,extra,gum,12828.0,0.6201
+528,extra select sizes,,extra,gum,12828.0,0.6201
+518,orbit select sizes buy 1,,orbit,gum,7268.0,0.6201
+704,orbit select varieties,,orbit,gum,7268.0,0.6201
+288,respawn by 5 gum at walmart,walmart,5 gum,gum,4813.0,0.6201
+240,sargento sliced cheese spend 25,,sargento,cheese,22912.0,0.6143
