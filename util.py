@@ -164,3 +164,32 @@ def brandToCatSearch(query, offer, brand, category, full, N = 30, k = 3):
     print(fname)
     print(out)
     return out
+
+def retailerSearch(query, offer, brand, category, full, N = 10):
+    """
+    query: a single string inputs of search in retailer.
+    N: top N offers selected by the matching. default 10.
+    return: a csv files stores the top N selected retailer matching.
+    """
+    model_name = 'bert-base-nli-mean-tokens'
+    model = SentenceTransformer(model_name)
+
+    retDict = full['RETAILER'].to_list()
+    retDict_vecs = model.encode(retDict)
+    similarity = full.copy()
+    q = model.encode([query])
+    cos = cosine_similarity(q, retDict_vecs).round(4)
+    similarity['SCORE'] = cos.reshape(-1, 1)
+    df = similarity.copy()
+
+    # Display the result, top N matched offer
+    df.drop_duplicates(subset=['OFFER'], inplace = True)
+    a = df.sort_values(by=['SCORE', 'RECEIPTS'], ascending=[False, False])
+    # top N offers
+    a = a.iloc[:N][['OFFER', 'RETAILER', 'BRAND', 'CATEGORY', 'RECEIPTS', 'SCORE']]
+    fname = f'Retailer Search Top {N} {query}.csv'
+    print()
+    print(fname)
+    print(a)
+    
+    a.to_csv(fname)
