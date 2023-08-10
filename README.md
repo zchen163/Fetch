@@ -837,7 +837,7 @@ Some potential optimizations that could further improve the searching include:
 
 - **Developing a user interface**: The current tool is a command-line tool. I plan to develop a user interface for the tool so that it can be used by a wider range of users.
 
-![\images\fetch2.png](Images/fetch2.png)
+![User interface](Images/fetch2.png)
 
 ## 8. References: 
 
