@@ -821,8 +821,6 @@ The results are shown below:
 
 The similarity score between the text input and each offer is stored in the score column of each output CSV file. This score is a real number between 0 and 1, where 0 indicates no similarity and 1 indicates perfect similarity. The score is calculated via cosine similarity in the transformer model. It is measured by the cosine of the angle between two embedding vectors: one from the input string, and the other from each candidate category/brand/retailer.
 
-![\images\fetch2.png](Images/fetch2.png)
-
 ## 7. Summary
 
 In summary, I have presented a command-line tool that enables users to intelligently search for offers via text input from users. The tool is built on natural language processing (NLP) models for performing similarity search on a dataset of product categories. 
@@ -839,6 +837,7 @@ Some potential optimizations that could further improve the searching include:
 
 - **Developing a user interface**: The current tool is a command-line tool. I plan to develop a user interface for the tool so that it can be used by a wider range of users.
 
+![\images\fetch2.png](Images/fetch2.png)
 
 ## 8. References: 
 
