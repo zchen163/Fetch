@@ -8,8 +8,6 @@
 
 We were provided with a dataset of offers and associated metadata, such as the retailers and brands that sponsor the offer. We were also provided with a dataset of brands that we support on our platform, and the categories to which those products belong.
 
-![/Images/cleaning.png](/tree/main/Images/clearning.png)
-
 ![\images\fetch2.png](/Images/fetch2.png)
 
 The goal is to develop a tool to perform the following queries:
@@ -94,7 +92,7 @@ My first step took in processing language data is **data cleaning**. It is impor
 
 One example is shown in the snapshot of the *offer_retailer.csv* file below. As we can see, the data contains some items that start with a column character. Additionally, the second and third rows only differ in the capitalization of the letter "L". These inconsistencies need to be addressed before the data can be processed.
 
-![\images\cleaning.png](attachment:cleaning.png)
+![\images\cleaning.png](Images/cleaning.png)
 
 The data was cleaned using the following steps:
 
@@ -392,7 +390,7 @@ The full model architecture is shown below. The model consists of the following 
 
 The full model architecture is shown below.
 
-![SBERT%20Architecture.png](attachment:SBERT%20Architecture.png)
+![SBERT%20Architecture.png](Images/SBERT%20Architecture.png)
 
 Here I provide step-by-step instructions on using transformer models for similarity search.
 
@@ -536,11 +534,11 @@ res = categorySearch(queries)
 
 The results of top 20 offers by searching 'meat' in category are shown below. 
 
-![meat.png](attachment:meat.png)
+![meat.png](Images/meat.png)
 
 The results of top 20 offers by searching 'coffee' in category are shown below. 
 
-![coffee.png](attachment:coffee.png)
+![coffee.png](Images/coffee.png)
 
 ### Task 2. Brand Search
 
@@ -645,7 +643,7 @@ brandQuery = 'cvs'
 res = brandSearch(brandQuery)
 ```
 
-![cvs.png](attachment:cvs.png)
+![cvs.png](Images/cvs.png)
 
 **Example 2:** The search input is in the offer_retailer table. Note that KFC is in the offer_retailer table, but not in the brand_category table. The search results are shown below:
 
@@ -656,10 +654,10 @@ res = brandSearch(brandQuery)
 ```
 
 <div>
-<img src="attachment:KFC.png" width="600"/>
+<img src="Images/KFC.png" width="600"/>
 </div>
 
-![kfc.png](attachment:kfc.png)
+![kfc.png](Images/kfc.png)
 
 **Example 3:** The search input is not in the offer_retailer table. In this case, the algorithm will:
 
@@ -778,7 +776,7 @@ res = brandSearch(brandQuery)
     723    292.0  0.7833  
 
 
-![water.png](attachment:water.png)
+![water.png](Images/water.png)
 
 ### Task 3. Retailer Search
 
@@ -817,13 +815,13 @@ res = retailerSearch(queries)
 
 The results are shown below: 
 
-![retailer.png](attachment:retailer.png)
+![retailer.png](Images/retailer.png)
 
 ### Task 4. Similarity Score
 
 The similarity score between the text input and each offer is stored in the score column of each output CSV file. This score is a real number between 0 and 1, where 0 indicates no similarity and 1 indicates perfect similarity. The score is calculated via cosine similarity in the transformer model. It is measured by the cosine of the angle between two embedding vectors: one from the input string, and the other from each candidate category/brand/retailer.
 
-![\images\fetch.png](attachment:fetch.png)
+![\images\fetch.png](Images/fetch.png)
 
 ## 7. Summary
 
