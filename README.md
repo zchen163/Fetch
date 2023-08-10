@@ -6,9 +6,9 @@
 
 ### 1.1 Problem Statement
 
-We were provided with a dataset of offers and associated metadata, such as the retailers and brands that sponsor the offer. We were also provided with a dataset of brands that we support on our platform, and the categories to which those products belong.
+We were provided with a dataset of offers and associated metadata, such as the retailers and brands that sponsor the offer. We were also provided with a dataset of brands that we support on our platform, and the categories to which those products belong. 
 
-![\images\fetch2.png](/Images/fetch2.png)
+![Exaple usage of the recommendation systems](/Images/fetch.png)
 
 The goal is to develop a tool to perform the following queries:
 
@@ -821,7 +821,7 @@ The results are shown below:
 
 The similarity score between the text input and each offer is stored in the score column of each output CSV file. This score is a real number between 0 and 1, where 0 indicates no similarity and 1 indicates perfect similarity. The score is calculated via cosine similarity in the transformer model. It is measured by the cosine of the angle between two embedding vectors: one from the input string, and the other from each candidate category/brand/retailer.
 
-![\images\fetch.png](Images/fetch.png)
+![\images\fetch2.png](Images/fetch2.png)
 
 ## 7. Summary
 
