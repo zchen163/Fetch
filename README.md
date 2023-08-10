@@ -8,6 +8,8 @@
 
 We were provided with a dataset of offers and associated metadata, such as the retailers and brands that sponsor the offer. We were also provided with a dataset of brands that we support on our platform, and the categories to which those products belong.
 
+![\images\cleaning.png](attachment:fetch.png)
+
 The goal is to develop a tool to perform the following queries:
 
 - **Category search**: If a user searches for a category (e.g., diapers), the tool should return a list of offers that are relevant to that category.
@@ -17,6 +19,8 @@ The goal is to develop a tool to perform the following queries:
 - **Retailer search**: If a user searches for a retailer (e.g., Target), the tool should return a list of offers that are relevant to that retailer.
 
 - **Similarity score**: The tool also returns the score that was used to measure the similarity of the text input with each offer.
+
+  
 
 
 ### 1.2 Outline
