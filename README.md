@@ -8,7 +8,7 @@
 
 We were provided with a dataset of offers and associated metadata, such as the retailers and brands that sponsor the offer. We were also provided with a dataset of brands that we support on our platform, and the categories to which those products belong.
 
-![\images\cleaning.png](/Images/cleaning.png)
+![/Images/cleaning.png](/tree/main/Images/clearning.png)
 
 ![\images\fetch2.png](/Images/fetch2.png)
 
